@@ -1,7 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head></head>
-<body>
-<h1>html文档</h1>
-</body>
-</html>
+本次项目主要是对于自己前端方面的练习以及今后面试所做 Demo
